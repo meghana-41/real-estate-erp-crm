@@ -1,0 +1,1 @@
+Customer schema and model definition.
