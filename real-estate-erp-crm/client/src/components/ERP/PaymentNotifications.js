@@ -1,0 +1,1 @@
+Component for viewing payment notices.
